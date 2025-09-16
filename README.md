@@ -125,7 +125,7 @@ October 30, 2027
 """ REFERENCE
 All of the above can be memorized and performed mentally for an audience. 30 seconds or less!
 
-NOTE: This DOW method gives results that agree with all other methods on the internet for Gregorian dates. Gregorian is what the USA and almost all nations use. The Julian Calendar was replaced,in the USA in 1752, by the Gregorian Calendar, changing the formula for calculating leap years. 
+NOTE: This DOW method is a Jackie Dander original and gives results that agree with all other methods on the internet for Gregorian dates. Gregorian is what the USA and almost all nations use. The Julian Calendar was replaced,in the USA in 1752, by the Gregorian Calendar, changing the formula for calculating leap years. 
 11 days were dropped from the month of September 1752. 
 The “Revised Julian Date” is out there but this method is not for civil use as timeanddate.com explains. It is used for some churches only.
 There is also a revised Gregorian calendar under consideration after 2800 but no decision made yet. This program may be inaccurate in many centuries.
