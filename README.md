@@ -4,6 +4,7 @@ Day of Week (DOW) Calculation (Years 1753 to 9999)
 Copyright.  May be used with attribution.
 
 Day of Week (DOW) = [AA + BB + CC + DD + EE + FF] for any year
+
 or Item 1 + 2 + 3 + 4 + 5 + 6
 
 (DOW is a number from 0 to 6, Sunday thru Saturday)
