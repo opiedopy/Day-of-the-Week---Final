@@ -30,6 +30,8 @@ BB.  day
    
 CC:  Century# 
 
+1600    2
+
 1700    0
 
 1800    5
@@ -65,7 +67,7 @@ etc
 7900    3
 
 
-Note the 400 year repetition.  Example year 7783 has CC of 0.
+Note the 400 year repetition beginning at 1600 (and 2000, 2400, 3600, 5200 etc.)  Example year 7783 has CC of 0.  Year 4467 has CC of 2, because 4400 century is divisible by 400.
 
 4.or
 
