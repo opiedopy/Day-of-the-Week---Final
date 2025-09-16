@@ -1,6 +1,8 @@
 # Day-of-the-Week---Final
 Day of Week (DOW) Calculation (Years 1753 to 9999)
--September 16 2025 modification by Jackie Dander, fuzzywidget.com
+
+September 16 2025 modification by Jackie Dander, fuzzywidget.com
+
 Copyright.  May be used with attribution.
 
 Day of Week (DOW) = [AA + BB + CC + DD + EE + FF] for any year
