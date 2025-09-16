@@ -20,32 +20,50 @@ AA.	 month_val
 
       Note: leap year in ()
       
-      month_val =   Jan 4(3), Feb 0(-1), Mar 0, Apr  3, May 5, Jun  1, Jul 3, Aug  6, Sep  2, Oct  4, Nov 0, Dec  2
+      month_val =   Jan 4(3), Feb 0(-1), Mar 0, Apr 3, May 5, Jun 1, Jul 3, Aug 6, Sep 2, Oct 4, Nov 0, Dec 2
       
 2. or
                        
-BB.  day
+BB.  day 
 
 3. or
    
-CC:  Century#           
+CC:  Century# 
+
 1700    0
+
 1800    5
-1900    3                
+
+1900    3 
+
 2000    2
+
 2100    0 
-2200    5 
-2300    3       
+
+2200    5
+
+2300    3
+
 2400    2
+
 2500    0
+
 2600    5
+
 2700    3
+
 etc 
+
 etc
+
 7600    2
+
 7700    0
+
 7800    5
+
 7900    3
+
 
 Note the 400 year repetition.  Example year 7783 has CC of 0.
 
