@@ -128,19 +128,20 @@ October 30, 2027
 """ REFERENCE
 All of the above can be memorized and performed mentally for an audience. 30 seconds or less!
 
-NOTE: This DOW method is a Jackie Dander original and gives results that agree with all other methods on the internet for Gregorian dates. Gregorian is what the USA and almost all nations use. The Julian Calendar was replaced,in the USA in 1752, by the Gregorian Calendar, changing the formula for calculating leap years. 
+NOTE: This DOW method is a Jackie Dander original and gives results that agree with all other methods on the internet for Gregorian dates. Gregorian is what the USA and almost all nations use. The Julian Calendar was replaced in the USA in 1752 by the Gregorian Calendar.
 11 days were dropped from the month of September 1752. 
-The “Revised Julian Date” is out there but this method is not for civil use as timeanddate.com explains. It is used for some churches only.
-There is also a revised Gregorian calendar under consideration after 2800 but no decision made yet. This program may be inaccurate in many centuries.
+The “Revised Julian Date” calendar is out there but that calendar is not for civil use as timeanddate.com explains. It is used for some religions.
+There is also a revised Gregorian calendar under consideration after 2800 but no decision made yet. This program may be inaccurate in many centuries therefore.
 
-And the Gregorian Calendar was not adopted by all countries at one time  prior to 1752, so this program does not work <1753.
-
+And the Gregorian Calendar was not adopted by all countries at one time prior to 1752, so I have chosen to limit this program to >1752.
+____________________________
 Leap Year:
-To use the month_val table, and if your month is January or February, you must memorize  the rules for all LEAP YEARS!!
+
+To use the month_val table, and if your month is January or February, you must memorize the rules for all LEAP YEARS!!
 Except for case below, if a year is divisible by 4 it is a leap year:
 Examples: 1952, 2016, 2020, 2024, 2096, 2548 are all leap years since they are divisible by 4.
-But,
-- A year divisible by 100, but not 400, is not a leap year, so
+
+But,a year divisible by 100, but not 400, is not a leap year, so
 1900, 2100, 2200, 2300, 2700 are not leap years since they are
 divisible by 100 but not 400. 1600 and 2000 and 2400 are leap years.
 
