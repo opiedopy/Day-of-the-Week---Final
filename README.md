@@ -14,23 +14,19 @@ or Item 1 + 2 + 3 + 4 + 5 + 6
 Input is Day/Month/CCYY where CC is century and YY is last two digits, e.g. 2025
 
 
-1. or
-   
-AA.	 month_val
+1. or AA.
+  
+ month_val
 
       Note: leap year in ()
       
       month_val =   Jan 4(3), Feb 0(-1), Mar 0, Apr 3, May 5, Jun 1, Jul 3, Aug 6, Sep 2, Oct 4, Nov 0, Dec 2
       
 ____________________________    
-2. or
-                       
-BB.  day 
+2. or   BB. = day 
 ____________________________ 
 
-3. or
-   
-CC:  Century# 
+3. or  CC:  Century# 
 
 1600    2
 
@@ -72,19 +68,19 @@ etc
 Note the 400 year repetition beginning at 1600 (and 2000, 2400, 3600, 5200 etc.)  Example year 7783 has CC of 0.  Year 4467 has CC of 2, because 4400 century is divisible by 400.
 ____________________________ 
 
-4.or
+4.or DD.  
 
-DD.  int(YY/12), means integer and no fractions
+int(YY/12), means integer and no fractions
 ____________________________ 
 
-5. or
- 
-EE.  YYmod12, mod means modulo and is espressed YY%12
+5. or  EE.
+  
+ YYmod12, mod means modulo and is espressed YY%12
 
 ____________________________ 
-6. or
-
-FF.  int(EE/4)
+6. or  FF.
+  
+ int(EE/4)
 
 ____________________________ 
 
