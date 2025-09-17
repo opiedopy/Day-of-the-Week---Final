@@ -90,7 +90,9 @@ ____________________________
 
 Examples:
 February 29, 2052
--Is a leap year, therefore:
+
+Is a leap year, therefore:
+
 1. month_val       = -1
 2. day             = 29
 3. CC              =  2
@@ -98,8 +100,10 @@ February 29, 2052
 5. YY%12           =  4
 6. int((YY%12)/4)  =  1
    sum             = 39, 39 modulo 7 = 4, 39%7 = 4
-   day of week (DOW) is therefore Thursday
    
+   day of week (DOW) is therefore Thursday
+
+   ____________________________
 October 30, 2027
 1. month_val       =  4
 2. day             = 30
@@ -108,8 +112,10 @@ October 30, 2027
 5. YY%12           =  3
 6. int((YY%12)/4)  =  0
    sum             = 41, 41 modulo 7 = 6, 41%7 = 6
-   day of week (DOW) is therefore Saturday
    
+   day of week (DOW) is therefore Saturday
+
+   ____________________________
  June 18, 7932
 1. month_val       =  1
 2. day             = 18
@@ -118,9 +124,10 @@ October 30, 2027
 5. YY%12           =  8
 6. int((YY%12)/4)  =  2
    sum             = 34, 34 modulo 7 = 6, 34%7 = 6
+   
    day of week (DOW) is therefore Saturday
 
-     
+  ____________________________   
 
 """ REFERENCE
 All of the above can be memorized and performed mentally for an audience. 30 seconds or less!
