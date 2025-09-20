@@ -137,7 +137,7 @@ There is also a revised Gregorian calendar under consideration after 2800 but no
 
 And the Gregorian Calendar was not adopted by all countries at one time prior to 1752, so I have chosen to limit this program to >1752.
 ____________________________
-Leap Year:
+Leap Year for Gregorian Rules:
 
 To use the month_val table, and if your month is January or February, you must memorize the rules for all LEAP YEARS!!
 Except for case below, if a year is divisible by 4 it is a leap year:
