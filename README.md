@@ -97,8 +97,11 @@ Is a leap year, therefore:
 4. int(YY/12)      =  4
 5. YY%12           =  4
 6. int((YY%12)/4)  =  1
+   
    sum of the 6    = 39,
+   
    39 modulo 7 = 4,
+   
    39%7 = 4
    
    day of week (DOW) is therefore Thursday
