@@ -97,7 +97,9 @@ Is a leap year, therefore:
 4. int(YY/12)      =  4
 5. YY%12           =  4
 6. int((YY%12)/4)  =  1
-   sum             = 39, 39 modulo 7 = 4, 39%7 = 4
+   sum of the 6    = 39,
+   39 modulo 7 = 4,
+   39%7 = 4
    
    day of week (DOW) is therefore Thursday
 
@@ -109,7 +111,9 @@ October 30, 2027
 4. int(YY/12)      =  2
 5. YY%12           =  3
 6. int((YY%12)/4)  =  0
-   sum             = 41, 41 modulo 7 = 6, 41%7 = 6
+   sum of the 6    = 41,
+   41 modulo 7 = 6,
+   41%7 = 6
    
    day of week (DOW) is therefore Saturday
 
@@ -121,7 +125,9 @@ October 30, 2027
 4. int(YY/12)      =  2
 5. YY%12           =  8
 6. int((YY%12)/4)  =  2
-   sum             = 34, 34 modulo 7 = 6, 34%7 = 6
+   sum of the 6    = 34,
+   34 modulo 7 = 6,
+   34%7 = 6
    
    day of week (DOW) is therefore Saturday
 
