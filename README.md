@@ -114,6 +114,7 @@ October 30, 2027
 4. int(YY/12)      =  2
 5. YY%12           =  3
 6. int((YY%12)/4)  =  0
+   
    sum of the 6    = 41,
    
    41 modulo 7 = 6,
@@ -130,6 +131,7 @@ October 30, 2027
 4. int(YY/12)      =  2
 5. YY%12           =  8
 6. int((YY%12)/4)  =  2
+   
    sum of the 6    = 34,
    
    34 modulo 7 = 6,
