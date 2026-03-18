@@ -1,6 +1,7 @@
 """Day of Week (DOW) Calculation (Years 1753 to 2799) -- Gregorian Date Method (Used by most of the world now)
    After February 29, 2800, there may be an adjustment and switch to Revised Julian method
      therefore, dates after that may be either Gregorian or RJ
+     -- Before 1753, the world had a mixture of Julian and Gregorian calendar methods, so we start at 1753.
 CREATED BY JACKIE DANDER OF FUZZYWIDGET.COM, TODAY IS 3-17-2026
 Copyright. May be used or copied with attribution. 
 Note: The python modulo operator is "%".  Example: 76%12 = 6
