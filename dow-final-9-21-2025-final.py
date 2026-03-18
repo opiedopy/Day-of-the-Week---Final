@@ -1,7 +1,7 @@
 """Day of Week (DOW) Calculation (Years 9/14/1752 to 2800)
 -may 18 2025 modification by ME for quicker calcs
 I choose therefore to start my algorithm in 1753.  Calculations beyond 2800 are debatable.
-___new method taken from YouTube internet, "BE SMART" "How to figure out DOW..."__by John H Conway
+
 Day of Week (DOW) = [CC + AA + BB + DD + EE]
 for any year
 (DOW is a number from 0 to 6, Sunday thru Saturday)
