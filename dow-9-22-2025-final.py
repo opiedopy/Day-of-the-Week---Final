@@ -1,7 +1,7 @@
 """Day of Week (DOW) Calculation (Years 1753 to 9999)
 CREATED BY JACKIE DANDER OF FUZZYWIDGET.COM, TODAY IS 9/22/2025
 Copyright. May be used or copied with attribution. 
-Note: The python modulo operator is "%".  Example: 76%12 = 4
+Note: The python modulo operator is "%".  Example: 76%12 = 6
 """
 
 def is_leap_year(year):  #leap year per Gregorian Calendar rules
